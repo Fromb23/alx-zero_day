@@ -1,2 +1,6 @@
 echo "ALX School is so cool!"
 !/bin/bash
+
+echo "ALX School"
+#!/bin/bash
+update_script
